@@ -1,4 +1,4 @@
-# In this project was implemented a push button with NODE MCU ESP8266 and BLYNK APP.
+In this project was implemented a push button with NODE MCU ESP8266 and BLYNK APP.
 
 #SOFTWARE
 -> ARDUINO'S IDE
