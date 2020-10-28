@@ -1,7 +1,7 @@
 In this project was implemented a push button with NODE MCU ESP8266 and BLYNK APP.
 
 #SOFTWARE
--> ARDUINO'S IDE
+-> ARDUINO'S IDE \n
 -> BLYNK PLUGIN FOR NODE MCU
 
 The based code is avaliable on Arduino's IDE, with the NODE MCU plugin for Blynk. The greatest adaptation is on when the card is rebooted. 
